@@ -1,0 +1,41 @@
+Types of environment:
+cloud Based
+on-premise
+Hybrid
+
+Types of projects:
+implementation projects --> completly starup, from scratch devlopement
+migrations projects --> m365, google workspace, yahoo examples 
+operational projects
+Transition projects
+
+Tools:
+
+
+IMp: Types of license 1. Business License, Enterprise License
+in Business Licence we have 3 types of license
+1. Business Basic
+2. Business Standard
+3. Business Premium
+
+IN Enterprise Licence
+we have 3  types
+1. E1
+2. E2
+3. E3 
+
+What kind of license youing in your organisation:
+majorly we using the enterprise license along with the e5 license by default, if interview ask why e5 only, we say e5 suits the business requirement, so that in our organistion we using the e5 license
+
+2.what is the difference between e1, and e3 license. or e3 or e5 license
+A. while comparing to 3 of license in e1, e2, and e3 we have price comparsion, coming to security aspect in e1 it support eop( exchange online proctection, and Mfa Multi-factor actintication)
+additonaly in e2 its supports DLP -Data Loss Prevention, In e5 it supports eop, mfa, dlp, addtion to this it support microsft-defender for o365 cloud app securty , PAM, privilized Access Managenement
+and communition complaince
+and then in storage in e otlook support gb and onedrive it support  tb, but in e3 and e5 the storage support outlook 50gb and one drive 1 to 5 gb supports
+in services, e1 and e3 supports exchange, onedrive, sharepoint, teams, yammer, stream , but additinally e5 PowerBi also support
+
+3. next question lest you we have e1 licence user is requesting for power Bi licence.. answers is yes, but before giving the licence will check the all details, like
+weather he need only one license or mulitple, and then we evelate the cost or pricing between the license and base on results wee can assign to user which is sepcific or entire e5 license
+4. can we upgarde the and degrade the license 
+5. in Bussiness plans how many users its supports
+6. can we assign the both the e1 and e2 license for one user, yes but what the use of it un-necessary bill, but we mostly we dont do..its not worthy at all..
